@@ -2,5 +2,5 @@
 layout: default
 title: About
 ---
-# About page
-Welcome to our IoT Sensor Data Depot, a central hub for real-time data collection from a network of IoT sensors. Our system captures, stores, and analyzes data from a variety of sensors, providing valuable insights into environmental conditions, equipment performance, and more. From temperature and humidity sensors to motion detectors and beyond, our IoT sensors collect a wealth of data, transforming it into actionable information. This data is stored in our secure depot, ready for real-time monitoring, analysis, and decision-making. Join us in exploring the power of IoT and the insights it can bring to your fingertips.” 😊
+# About us
+IoT Sensor Data Depot, a central hub for real-time data collection from a network of IoT sensors. Our system captures, stores, and analyzes data from a variety of sensors, providing valuable insights into environmental conditions, equipment performance, and more. From temperature and humidity sensors to motion detectors and beyond, our IoT sensors collect a wealth of data, transforming it into actionable information. This data is stored in our secure depot, ready for real-time monitoring, analysis, and decision-making. Join us in exploring the power of IoT and the insights it can bring to your fingertips.” 😊
